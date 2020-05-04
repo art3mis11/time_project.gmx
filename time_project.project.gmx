@@ -27,8 +27,20 @@
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\object0</object>
-    <object>objects\object0</object>
+    <object>objects\o_key</object>
+    <object>objects\o_player</object>
+    <object>objects\o_rock</object>
+    <object>objects\o_treadmill_d</object>
+    <object>objects\o_treadmill_l</object>
+    <object>objects\o_treadmill_r</object>
+    <object>objects\o_treadmill_u</object>
+    <object>objects\o_tree</object>
+    <object>objects\o_wall</object>
+    <object>objects\o_wall_corner</object>
+    <object>objects\o_wall_d</object>
+    <object>objects\o_wall_l</object>
+    <object>objects\o_wall_r</object>
+    <object>objects\par_solid</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_one</room>
