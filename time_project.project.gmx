@@ -7,9 +7,6 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\s_key</sprite>
-    <sprite>sprites\s_player</sprite>
-    <sprite>sprites\s_player_down</sprite>
-    <sprite>sprites\s_player_up</sprite>
     <sprite>sprites\s_rock</sprite>
     <sprite>sprites\s_treadmill_d</sprite>
     <sprite>sprites\s_treadmill_l</sprite>
@@ -17,10 +14,13 @@
     <sprite>sprites\s_treadmill_u</sprite>
     <sprite>sprites\s_tree</sprite>
     <sprite>sprites\s_wall</sprite>
-    <sprite>sprites\s_wall_corner</sprite>
     <sprite>sprites\s_wall_d</sprite>
-    <sprite>sprites\s_wall_l</sprite>
     <sprite>sprites\s_wall_r</sprite>
+    <sprite>sprites\s_wall_l</sprite>
+    <sprite>sprites\s_player</sprite>
+    <sprite>sprites\s_player_up</sprite>
+    <sprite>sprites\s_player_down</sprite>
+    <sprite>sprites\s_wall_corner</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_grass</background>
