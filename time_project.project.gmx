@@ -21,6 +21,8 @@
     <sprite>sprites\s_player_up</sprite>
     <sprite>sprites\s_player_down</sprite>
     <sprite>sprites\s_wall_corner</sprite>
+    <sprite>sprites\s_floor</sprite>
+    <sprite>sprites\s_grass</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_grass</background>
@@ -41,6 +43,7 @@
     <object>objects\o_wall_l</object>
     <object>objects\o_wall_r</object>
     <object>objects\par_solid</object>
+    <object>objects\o_grass</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_one</room>
