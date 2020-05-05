@@ -18,8 +18,8 @@
     <sprite>sprites\s_wall_r</sprite>
     <sprite>sprites\s_wall_l</sprite>
     <sprite>sprites\s_player</sprite>
-    <sprite>sprites\s_player_up</sprite>
     <sprite>sprites\s_player_down</sprite>
+    <sprite>sprites\s_player_up</sprite>
     <sprite>sprites\s_wall_corner</sprite>
     <sprite>sprites\s_floor</sprite>
     <sprite>sprites\s_grass</sprite>
