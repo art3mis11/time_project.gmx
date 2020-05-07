@@ -23,6 +23,10 @@
     <sprite>sprites\s_wall_corner</sprite>
     <sprite>sprites\s_floor</sprite>
     <sprite>sprites\s_grass</sprite>
+    <sprite>sprites\s_bullet</sprite>
+    <sprite>sprites\s_infinity</sprite>
+    <sprite>sprites\s_column</sprite>
+    <sprite>sprites\s_cursor</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_grass</background>
@@ -44,6 +48,9 @@
     <object>objects\o_wall_r</object>
     <object>objects\par_solid</object>
     <object>objects\o_grass</object>
+    <object>objects\o_infinity</object>
+    <object>objects\o_column</object>
+    <object>objects\o_cursor</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_one</room>

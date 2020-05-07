@@ -7,7 +7,7 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>2</bboxmode>
-  <bbox_left>1</bbox_left>
+  <bbox_left>2</bbox_left>
   <bbox_right>12</bbox_right>
   <bbox_top>6</bbox_top>
   <bbox_bottom>15</bbox_bottom>
@@ -27,5 +27,7 @@
     <frame index="4">images\s_player_4.png</frame>
     <frame index="5">images\s_player_5.png</frame>
     <frame index="6">images\s_player_6.png</frame>
+    <frame index="7">images\s_player_7.png</frame>
+    <frame index="8">images\s_player_8.png</frame>
   </frames>
 </sprite>
