@@ -26,7 +26,14 @@
     <sprite>sprites\s_bullet</sprite>
     <sprite>sprites\s_infinity</sprite>
     <sprite>sprites\s_column</sprite>
+    <sprite>sprites\s_column_ice</sprite>
     <sprite>sprites\s_cursor</sprite>
+    <sprite>sprites\s_enemy</sprite>
+    <sprite>sprites\s_invisible_icon</sprite>
+    <sprite>sprites\s_take_out_an_enemy_icon</sprite>
+    <sprite>sprites\s_time_icon</sprite>
+    <sprite>sprites\s_door</sprite>
+    <sprite>sprites\s_ice</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_grass</background>
@@ -51,9 +58,15 @@
     <object>objects\o_infinity</object>
     <object>objects\o_column</object>
     <object>objects\o_cursor</object>
+    <object>objects\o_time_icon</object>
+    <object>objects\o_invisible_icon</object>
+    <object>objects\o_lightning_icon</object>
+    <object>objects\o_door</object>
+    <object>objects\o_ice</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_one</room>
+    <room>rooms\r_ice</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
