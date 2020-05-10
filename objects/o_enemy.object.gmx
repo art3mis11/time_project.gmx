@@ -63,11 +63,11 @@ x += 16;
 }
 if o_player.y &lt; y
 {
-x -= 16;
+y -= 16;
 }
-if o_player.y &lt; y
+if o_player.y &gt; y
 {
-x -= 16;
+y += 16;
 }
 }
 </string>
