@@ -34,6 +34,7 @@
     <sprite>sprites\s_time_icon</sprite>
     <sprite>sprites\s_door</sprite>
     <sprite>sprites\s_ice</sprite>
+    <sprite>sprites\s_gridtest</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_grass</background>
@@ -64,8 +65,10 @@
     <object>objects\o_door</object>
     <object>objects\o_ice</object>
     <object>objects\o_enemy</object>
+    <object>objects\o_grid</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\r_grid_display</room>
     <room>rooms\r_one</room>
     <room>rooms\r_ice</room>
   </rooms>

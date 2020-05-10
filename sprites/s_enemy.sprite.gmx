@@ -2,13 +2,13 @@
 <sprite>
   <type>0</type>
   <xorig>8</xorig>
-  <yorigin>15</yorigin>
+  <yorigin>8</yorigin>
   <colkind>1</colkind>
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>2</bbox_left>
-  <bbox_right>13</bbox_right>
+  <bbox_left>4</bbox_left>
+  <bbox_right>10</bbox_right>
   <bbox_top>2</bbox_top>
   <bbox_bottom>15</bbox_bottom>
   <HTile>0</HTile>
@@ -29,7 +29,5 @@
     <frame index="6">images\s_enemy_6.png</frame>
     <frame index="7">images\s_enemy_7.png</frame>
     <frame index="8">images\s_enemy_8.png</frame>
-    <frame index="9">images\s_enemy_9.png</frame>
-    <frame index="10">images\s_enemy_10.png</frame>
   </frames>
 </sprite>
