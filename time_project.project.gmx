@@ -63,6 +63,7 @@
     <object>objects\o_lightning_icon</object>
     <object>objects\o_door</object>
     <object>objects\o_ice</object>
+    <object>objects\o_enemy</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_one</room>
