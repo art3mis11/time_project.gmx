@@ -69,6 +69,7 @@ if o_player.y &lt; y
 {
 x -= 16;
 }
+}
 </string>
           </argument>
         </arguments>
