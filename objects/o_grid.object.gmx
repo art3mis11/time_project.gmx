@@ -73,7 +73,7 @@ turns = 0;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>for (y = 0; y &lt; room_height/grid_size; y++)
+            <string>/*for (y = 0; y &lt; room_height/grid_size; y++)
 {
     for (x = 0; x &lt; room_width/grid_size; x++)
     {
@@ -81,6 +81,7 @@ turns = 0;
         draw_text(x * 16, y * 16, grid_num);
     }
 }
+*/
 </string>
           </argument>
         </arguments>
