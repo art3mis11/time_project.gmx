@@ -34,8 +34,8 @@ ds_grid_set_region(grid, 1, 1, (room_height/grid_size)-2, (room_width/grid_size)
 //ds_grid_set_region(grid, 16, 16, (room_height/grid_size) -16, (room_width/grid_size) - 16, 0);
 ds_grid_set(grid,8,8,1);
 instance_create(8*16, 8*16, o_player);
-ds_grid_set(grid,80,32,4);
-instance_create(80,32,o_enemy);
+ds_grid_set(grid,16,48,4);
+instance_create(16,48,o_enemy);
 //0 = empty
 //1 = player
 //2 = solid
