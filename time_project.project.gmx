@@ -68,6 +68,7 @@
     <object>objects\o_grid</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\r_turns</room>
     <room>rooms\r_grid_display</room>
     <room>rooms\r_one</room>
     <room>rooms\r_ice</room>

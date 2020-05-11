@@ -29,7 +29,7 @@
 y = y + 8;
 ax = x;
 ay = y;
-spd = 1;
+spd = 2;
 image_speed = 0;
 step = 13;
 hsp = 1;
@@ -63,8 +63,8 @@ turn = 0;
     hsp *= -1;
     step = 13;
 }
-//if turn != turns
-//{
+if right or left or up or down
+{
 grid_num = ds_grid_get(grid,(ax/16) + hsp, ay/16);
 if (grid_num == 0 or grid_num == 3) and ax == x and step &gt; 0
 {
@@ -76,7 +76,7 @@ if (grid_num == 0 or grid_num == 3) and ax == x and step &gt; 0
     turn ++;
     image_index += 1;
 }
-//}
+}
 if ax != x x += spd * sign(ax-x);
 </string>
           </argument>

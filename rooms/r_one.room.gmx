@@ -121,9 +121,7 @@
     <instance objName="o_grass" x="174" y="238" name="inst_B5BD1B7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_grass" x="238" y="238" name="inst_9BBA98AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_player" x="117" y="121" name="inst_647979A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_infinity" x="132" y="66" name="inst_0BD8218A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_cursor" x="182" y="150" name="inst_54FC6EC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_column" x="123" y="93" name="inst_A06F809A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_d" x="136" y="222" name="inst_24B619AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_door" x="120" y="215" name="inst_E0A2D658" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_grass" x="110" y="238" name="inst_947F7584" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
