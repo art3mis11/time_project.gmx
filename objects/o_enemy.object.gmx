@@ -63,6 +63,13 @@ turn = 0;
     hsp *= -1;
     step = 13;
 }
+for (y = 0; y &lt; room_height/grid_size; y++)
+{
+    for (x = 0; x &lt; room_width/grid_size; x++)
+    {
+        grid_num = ds_grid_get(grid,x,y);
+    }
+}
 if right or left or up or down
 {
 grid_num = ds_grid_get(grid,(ax/16) + hsp, ay/16);
@@ -77,7 +84,6 @@ if (grid_num == 0 or grid_num == 3) and ax == x and step &gt; 0
     image_index += 1;
 }
 }
-if ax != x x += spd * sign(ax-x);
 </string>
           </argument>
         </arguments>
